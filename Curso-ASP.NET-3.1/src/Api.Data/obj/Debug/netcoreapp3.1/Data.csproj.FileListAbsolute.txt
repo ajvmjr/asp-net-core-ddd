@@ -1,0 +1,15 @@
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
