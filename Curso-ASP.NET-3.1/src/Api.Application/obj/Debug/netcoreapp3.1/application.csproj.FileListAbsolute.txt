@@ -65,3 +65,8 @@ C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Applicatio
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
