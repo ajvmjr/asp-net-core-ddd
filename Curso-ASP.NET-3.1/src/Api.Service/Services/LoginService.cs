@@ -63,7 +63,11 @@ namespace Api.Service.Services
       }
       else
       {
-        return null;
+        return new
+        {
+          authenticated = false,
+          message = "Falha ao autenticar."
+        };
       }
     }
 
@@ -90,7 +94,7 @@ namespace Api.Service.Services
         authenticated = true,
         created = createDate.ToString("yyyy-MM-dd HH:mm:ss"),
         expiration = expirationDate.ToString("yyyy-MM-dd HH:mm:ss"),
-        acessToken = token,
+        accessToken = token,
         userName = user.Email,
         message = "Usuário logado com sucesso."
       };
