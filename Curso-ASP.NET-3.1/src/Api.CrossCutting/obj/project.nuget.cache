@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NawPpPVL/3kzQygnBbrmc+oIBO8za1+U0D7ZKasnWq+Fh4gkq9MgglTq8lQgXixE2KkqP6HOwH4QYAe3McRUkw==",
+  "dgSpecHash": "5fmQbja4flKeQn56VEpiBr/bP7amHSsQVKdVNNQC29Q6mEQkdORrz6yDgbhbuRXQRpAi1ipwjUcXO5/WbFyxHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alex.moreira\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\alex.moreira\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
