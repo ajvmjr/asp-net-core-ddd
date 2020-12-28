@@ -1714,7 +1714,7 @@
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "runtime": {
-          "Application.dll": {}
+          "application.dll": {}
         }
       },
       "CrossCutting/1.0.0": {
