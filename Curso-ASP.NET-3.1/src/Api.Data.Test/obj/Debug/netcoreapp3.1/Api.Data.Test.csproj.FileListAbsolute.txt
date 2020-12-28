@@ -156,3 +156,5 @@ C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\application.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\application.pdb
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Faker.NETCore.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll
