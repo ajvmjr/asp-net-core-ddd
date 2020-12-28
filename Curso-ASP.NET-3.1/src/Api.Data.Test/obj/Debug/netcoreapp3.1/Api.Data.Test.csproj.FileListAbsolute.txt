@@ -50,7 +50,6 @@ C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.assert.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.core.dll
@@ -144,3 +143,16 @@ C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Data.Test.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Data.Test.pdb
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\obj\Debug\netcoreapp3.1\Api.Data.Test.genruntimeconfig.cache
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\application.exe
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\application.dll
+C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Data.Test\bin\Debug\netcoreapp3.1\application.pdb
