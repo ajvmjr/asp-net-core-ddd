@@ -146,3 +146,5 @@ C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Service.Te
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.dll
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.pdb
 C:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.genruntimeconfig.cache
+c:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Service.Test\bin\Debug\netcoreapp3.1\Faker.NETCore.dll
+c:\Users\alex.moreira\Desktop\curso-backend\Curso-ASP.NET-3.1\src\Api.Service.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll

@@ -2392,7 +2392,7 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "application/1.0.0": {
+      "Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -2403,10 +2403,10 @@
           "Swashbuckle.AspNetCore": "5.6.3"
         },
         "compile": {
-          "bin/placeholder/application.dll": {}
+          "bin/placeholder/Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/application.dll": {}
+          "bin/placeholder/Application.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -8000,10 +8000,10 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "application/1.0.0": {
+    "Application/1.0.0": {
       "type": "project",
-      "path": "../Api.Application/application.csproj",
-      "msbuildProject": "../Api.Application/application.csproj"
+      "path": "../Api.Application/Application.csproj",
+      "msbuildProject": "../Api.Application/Application.csproj"
     },
     "CrossCutting/1.0.0": {
       "type": "project",
@@ -8028,12 +8028,12 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Application >= 1.0.0",
       "CrossCutting >= 1.0.0",
       "Data >= 1.0.0",
       "Domain >= 1.0.0",
       "Faker.NETCore >= 1.0.2",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
-      "application >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -8045,11 +8045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectUniqueName": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "projectName": "Api.Data.Test",
-      "projectPath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectPath": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "packagesPath": "C:\\Users\\alex.moreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\obj\\",
+      "outputPath": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alex.moreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8066,17 +8066,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Application\\application.csproj": {
-              "projectPath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Application\\application.csproj"
+            "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Application\\Application.csproj": {
+              "projectPath": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Application\\Application.csproj"
             },
-            "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data\\Data.csproj"
+            "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data\\Data.csproj"
             },
-            "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Domain\\Domain.csproj"
+            "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

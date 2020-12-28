@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vOasBXQlX0Cgs1hQzTaB+VtwTF1Cc7pew5PUSzj9tZKOKUlihyZN1iZKQfoD+RZP52tZeSYf+bw8YYkHz2uFKA==",
+  "dgSpecHash": "QCl+hJVvQRUR4PRhQ+n71DZB8jXCKZ3I0GLKOplzjMoeJmO7+QNsL1kOTM4tbRqDw10WoWo6W5tcv0kpizb7Rw==",
   "success": true,
   "projectFilePath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Service.Test\\Api.Service.Test.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\alex.moreira\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\alex.moreira\\.nuget\\packages\\faker.netcore\\1.0.2\\faker.netcore.1.0.2.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
