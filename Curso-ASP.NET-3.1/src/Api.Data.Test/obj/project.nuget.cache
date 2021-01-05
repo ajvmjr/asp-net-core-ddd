@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8OoFiz2WZBHhWurd1jFIzkUmnpg3Hfe0OgD2ULu4fcLGGeWq6hFuhCBzCKeGhQMY07qr8m56HncsJwP1+jjwMA==",
+  "dgSpecHash": "SD0qVWrHyoXYUPiBBwuIa64djsLmRcYzf7OcbD5iYxmqsyCnlc/DMNFSX4oKcDoRAYghtO7KHADdzYT2dQA/vA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+  "projectFilePath": "C:\\Users\\alex.moreira\\Desktop\\curso-backend\\Curso-ASP.NET-3.1\\src\\Api.Data.Test\\Api.Data.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex.moreira\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\alex.moreira\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
